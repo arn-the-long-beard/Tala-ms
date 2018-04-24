@@ -1,6 +1,6 @@
 {
     "name": "Tala",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Service for handling data for the chat system ",
     "engines": {
         "arangodb": "^3.0.0"
